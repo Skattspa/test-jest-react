@@ -1,0 +1,14 @@
+{
+  "name": "jsbase",
+  "version": "1.0.0",
+  "description": "test unitarios con jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.5"
+  }
+}
